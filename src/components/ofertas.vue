@@ -66,7 +66,7 @@ export default {
 
 }
 .titulo{
-  margin-left:2vw;
+  margin-left:1vw;
 }
 .componente{
   display: flex;
